@@ -22,7 +22,7 @@ I like this food because these are **quick to eat** and **delicious** to eat.
     * Desert 
 8. Sleep
 
-[About Me](/AboutMe.md "About Me").
+[About Me](/AboutMe.md "About Me")
     
 
 
