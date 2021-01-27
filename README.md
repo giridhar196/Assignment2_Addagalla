@@ -1,5 +1,5 @@
-># Giridhar Addagalla
->## Favorite  food
+# Giridhar Addagalla
+## Favorite  food
 >
 > 1. Mango
 > 2. Pizza
