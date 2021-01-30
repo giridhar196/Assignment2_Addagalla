@@ -40,8 +40,6 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 
 # Pithy Quotes
 
----
-
 >“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
 >
 > *― Marilyn Monroe*
