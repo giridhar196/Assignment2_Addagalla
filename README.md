@@ -40,6 +40,7 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 
 # Pithy Quotes
 
+---
 >“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
 >
 > *― Marilyn Monroe*
@@ -47,3 +48,21 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 >“Be yourself; everyone else is already taken.”
 >
 > *― Oscar Wilde*
+>
+
+---
+# Code Fencing
+---
+>GameMonkey Script is a small, cross-platform scripting language designed for embedding into games. GameMonkey bears many similarities to Lua, except the syntax is more similar to that of C.
+>
+```
+OnDoorTriggerEnter = function(door, objEntering)
+{
+  if(objEntering == player && !door.IsOpen())
+  {
+    door.Open();
+    return true;
+  }
+  return false;
+};
+```
