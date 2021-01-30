@@ -1,5 +1,5 @@
 # Giridhar Addagalla
-## Pizza
+###### Pizza
 
 I like this food because these are **quick to eat** and **delicious** to eat.
 
@@ -25,7 +25,15 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 [About Me](/AboutMe.md "About Me")
     
 
+---
+
+|   #Location   |  #No Of Hours |  #Amount Of Money |
+| ------------- | ------------- | ----------------  |
+|     Guntur    |      68       |      500$         |
+|   Hyderabad   |      79       |      100$         |
+|     Delhi     |      99       |      900$         |
+|     Mumbai    |      99       |      900$         |
 
 
 
- 
+ ---
