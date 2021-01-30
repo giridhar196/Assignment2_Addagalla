@@ -27,8 +27,8 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 
 ---
 
-|   # Location  | # No Of Hours | # Amount Of Money |
-| ------------- | ------------- | ----------------  |
+|     Location  |   No Of Hours |   Amount Of Money |
+| :---          | :----:        | :----:            |
 |     Guntur    |      68       |      500$         |
 |   Hyderabad   |      79       |      100$         |
 |     Delhi     |      99       |      900$         |
