@@ -36,10 +36,10 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 
 
 
-![Delhi](/images/delhi.jpg =100x20)
-![Guntur](/images/guntur.jpg =100x20)
-![Mumbai](/images/mumbai.jpg =100x20)
-![Hyderabad](/images/hyderabad.jpg =100x20)
+![Delhi](/images/delhi.jpg )
+![Guntur](/images/guntur.jpg)
+![Mumbai](/images/mumbai.jpg)
+![Hyderabad](/images/hyderabad.jpg)
 
  ---
 
