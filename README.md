@@ -54,15 +54,21 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 # Code Fencing
 ---
 >GameMonkey Script is a small, cross-platform scripting language designed for embedding into games. GameMonkey bears many similarities to Lua, except the syntax is more similar to that of C.
->
+>Open GL Shading Language [Click Here!](https://en.wikipedia.org/wiki/OpenGL_Shading_Language).
 ```
-OnDoorTriggerEnter = function(door, objEntering)
+in type in_variable_name;
+in type in_variable_name;
+
+out type out_variable_name;
+  
+uniform type uniform_name;
+  
+void main()
 {
-  if(objEntering == player && !door.IsOpen())
-  {
-    door.Open();
-    return true;
-  }
-  return false;
-};
+  // process input(s) and do some weird graphics stuff
+  ...
+  // output processed stuff to output variable
+  out_variable_name = weird_stuff_we_processed;
+}
 ```
+>Sample Code [Click Here!](https://learnopengl.com/Getting-started/Shaders)
