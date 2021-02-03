@@ -77,6 +77,6 @@ void main()
 
 
 ![Delhi](/images/delhi.jpg)
+![Guntur](/images/guntur.jpg)
 ![Mumbai](/images/mumbai.jpg)
 ![Hyderabad](/images/hyderabad.jpg)
-![Guntur](/images/guntur.jpg)
