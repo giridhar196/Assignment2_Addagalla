@@ -51,7 +51,7 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 >
 
 ---
-# Code Fencing
+# GameMonkey
 ---
 >GameMonkey Script is a small, cross-platform scripting language designed for embedding into games. GameMonkey bears many similarities to Lua, except the syntax is more similar to that of C.
 >Open GL Shading Language [Click Here!](https://en.wikipedia.org/wiki/OpenGL_Shading_Language).
