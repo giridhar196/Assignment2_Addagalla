@@ -36,6 +36,11 @@ I like this food because these are **quick to eat** and **delicious** to eat.
 
 
 
+![Delhi](/images/delhi.jpg)
+![Guntur](/images/guntur.jpg)
+![Mumbai](/images/mumbai.jpg)
+![Hyderabad](/images/hyderabad.jpg)
+
  ---
 
 # Pithy Quotes
@@ -73,10 +78,3 @@ void main()
 ```
 >Sample Code [Click Here!](https://learnopengl.com/Getting-started/Shaders)
 
-## Bonus
-
-
-![Delhi](/images/delhi.jpg)
-![Guntur](/images/guntur.jpg)
-![Mumbai](/images/mumbai.jpg)
-![Hyderabad](/images/hyderabad.jpg)
