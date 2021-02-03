@@ -72,3 +72,10 @@ void main()
 }
 ```
 >Sample Code [Click Here!](https://learnopengl.com/Getting-started/Shaders)
+
+## Bonus
+
+![Guntur](/images/guntur.jpg)
+![Delhi](/images/delhi.jpg)
+![Hyderabad](/images/hyderabad.jpg)
+![Mumbai](/images/mumbai.jpg)
