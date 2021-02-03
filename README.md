@@ -75,7 +75,8 @@ void main()
 
 ## Bonus
 
-![Guntur](/images/guntur.jpg)
+
 ![Delhi](/images/delhi.jpg)
-![Hyderabad](/images/hyderabad.jpg)
 ![Mumbai](/images/mumbai.jpg)
+![Hyderabad](/images/hyderabad.jpg)
+![Guntur](/images/guntur.jpg)
